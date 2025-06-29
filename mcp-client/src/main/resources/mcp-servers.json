@@ -1,0 +1,17 @@
+{
+  "mcpServers": {
+    "filesystem": {
+      "command": "C:/Program Files/nodejs/npx.cmd",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-filesystem",
+        "C:/Users/PC/Documents/3DMark 11/gptbolt/pod2/rmbg/testqcx/New folder/dracula/les miserables/germinal/swann/audio to upload/mcp-server-client-spring-ai-main/mcp-server-client-spring-ai-main"
+      ]
+    },    "Python-MCP-Server": {
+      "command": "python",
+      "args": [
+        "C:/Users/PC/Documents/3DMark 11/gptbolt/pod2/rmbg/testqcx/New folder/dracula/les miserables/germinal/swann/audio to upload/mcp-server-client-spring-ai-main/mcp-server-client-spring-ai-main/python-mcp-server/server.py"
+      ]
+    }
+  }
+}

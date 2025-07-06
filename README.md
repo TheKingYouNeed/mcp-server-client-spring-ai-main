@@ -8,6 +8,11 @@ Ce projet est une implémentation du protocole MCP (Model Context Protocol) qui 
 2. **Serveur MCP Spring Boot** - Un serveur MCP basé sur Spring Boot utilisant le protocole SSE (Server-Sent Events)
 3. **Client MCP Spring Boot** - Un client qui se connecte aux serveurs MCP et utilise l'API Anthropic Claude pour les fonctionnalités d'IA
 
+![image](https://github.com/user-attachments/assets/5bbd50bf-b935-4b8d-a011-d50b60741c80)
+
+![image](https://github.com/user-attachments/assets/fab39781-dc48-4a4f-8628-887061ee7e3f)
+
+
 ## Structure du projet
 
 ```
